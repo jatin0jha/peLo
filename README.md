@@ -25,10 +25,10 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License]().
 
 ---
 
-Designed and coded by [Your Name].
+Designed and coded by [Jatin].
 
-For more templates and projects, visit [Your Website/Portfolio](https://jatinjha.me/CV/).
+For more templates and projects, visit [My CV ;)](https://jatinjha.me/CV/).
