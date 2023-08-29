@@ -31,4 +31,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Designed and coded by [Your Name].
 
-For more templates and projects, visit [Your Website/Portfolio](https://yourwebsite.com).
+For more templates and projects, visit [Your Website/Portfolio](https://jatinjha.me/CV/).
